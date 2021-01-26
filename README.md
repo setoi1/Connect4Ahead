@@ -7,7 +7,6 @@ A game of strategy and luck based on connect 4 where you must plan your moves wi
 ## Deliverables
 
 - Fully functional game client that can host or connect to a game
-- Documentation of client code
 
 ## Features 
 List all the features of your application in the order of priority.
@@ -24,12 +23,8 @@ List all the features of your application in the order of priority.
 2. A GUI will appear to setup the game
 3. Once the game is set up, you can play through the IDE's console.
 
-## Demo Video
-- https://youtu.be/rZcQ2mf1EXc
-
 ## Team members
 
+* Ian Seto, GUI Design/Network architecture
 * Nick Hale, Game Logic Designer
 * Quinn Montgomery, Network architecture/GUI Design
-* Ian Seto, GUI Design/Network architecture
-
